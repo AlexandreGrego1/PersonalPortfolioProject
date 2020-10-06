@@ -1,40 +1,32 @@
 
 
-Welcome USER_NAME,
+# Personal Portfolio Alexandre Gregoio,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+Welcome recruiters,
 
-## Gitpod Reminders
+I am a flexible professional, who enjoys learning new skills quickly adapts to new tasks and is able to build positive relationships with clients and colleagues at all organizational levels. Working in a busy administrative environment in Swords, Co. Dublin since May/2017 completing Customs Clearances. 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Ability to work under pressure, to prioritize tasks and work on my own initiative with an excellent PC literacy/keyboard and attention to detail.
 
-`python3 -m http.server`
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
+## OVERVIEW
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+I currently work for a Logistics company but the last December I was told by management that staff in our section will be made redundant, as our client was taking their
+logistics functions back in-house. However, I will be laid off soon, so I believe this is an opportunity for a career change, retraining as a Code Programmer, an area that first interested me when I was studying for my degree. 
 
-A blue button should appear to click: *Make Public*,
+Since September/2020, I have been attending in a Fullstack Web Developer course at Code Instutite Dublin. I have been coding as frontend and backend developer with HTML/CSS/JavaScript/Python/Django. 
 
-Another blue button should appear to click: *Open Browser*.
+Although I am thirty-six years old, I have worked for more than twenty years of my life accumulating a variety of experience in different sorts of jobs. I am a self-starter and highly motivated, put myself through university as a mature student, and will apply myself with the same dedication and hard work to completing the course of Diploma in Full Stack Software Development.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+I believe that I would be a worthy candidate for your company. My career and educational achievements to date show my willingness to work hard in order to achieve my goals. I believe that I have the relevant background and mental discipline to successfully work for this reputable company. 
+
 
 ## Updates Since The Instructional Video
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed along with other common files.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+**September 22 2020:** 
 
 --------
 
