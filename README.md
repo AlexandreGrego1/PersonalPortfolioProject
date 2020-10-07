@@ -1,6 +1,6 @@
 
 
-# Personal Portfolio Alexandre Gregoio,
+# PERSONAL PORTFOLIO ALEXANDRE GREGORIO,
 
 Welcome recruiters,
 
@@ -22,7 +22,9 @@ Although I am thirty-six years old, I have worked for more than twenty years of 
 I believe that I would be a worthy candidate for your company. My career and educational achievements to date show my willingness to work hard in order to achieve my goals. I believe that I have the relevant background and mental discipline to successfully work for this reputable company. 
 
 
-## Updates Since The Instructional Video
+## THE PORTFOLIO
+
+My portfolio consists 
 
 
 
