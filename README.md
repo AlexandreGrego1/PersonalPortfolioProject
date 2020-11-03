@@ -2,7 +2,42 @@
 
 # PERSONAL PORTFOLIO ALEXANDRE GREGORIO,
 
-Welcome recruiters,
+Welcome to my portfolio,
+
+This portfolio intents to offer to potencial employers an idea about my work history, and my skills in web develop tools. 
+
+## UX design / Presentation
+
+### Wireframing
+
+I have applyed differents concepts from different ideas of projects that I have done during my short developer path, and the pages were developed as per below: 
+
+* Home
+
+The home page, consists in a profile picture, description text "Who I am", an navbar button and a footer containing my social midia, and contact details. 
+
+* Resume
+
+The resume page, consists in my real work history on the left, and a skills resume which is based on my currently, and future skills that I expect to achieve after finish my Full Stack Web Developer course at Code Institute.
+
+* Contact
+
+The contact page, consists in a invitation for the future employer be in touch to work in a potencial project. 
+
+* Download CV
+
+The dowcload cv page, ofter to a potencial employer to download a printable version of my CV in a tradional form. After click on the button download CV, a target_blank comand will open a new tab mantening the potencial employer on the main portfolio page. 
+
+
+## Navigation 
+
+### Hambuguer button
+
+### Navbar
+
+The navigation elements would have basic animation applied to. elehave a animted logo navbar would 
+
+The intention of the animated navbar button is to atract attention for the em
 
 I am a flexible professional, who enjoys learning new skills quickly adapts to new tasks and is able to build positive relationships with clients and colleagues at all organizational levels. Working in a busy administrative environment in Swords, Co. Dublin since May/2017 completing Customs Clearances. 
 
