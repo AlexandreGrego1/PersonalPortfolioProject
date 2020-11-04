@@ -67,8 +67,19 @@ Google Fonts CDN was used to have Sans-Serif and Exo as a font family for the bo
 I was using Git for version control, uploading the project to GitHub.
 
 My GitHub repository for this project:
-https://github.com/AlexandreGrego1/PersonalPortfolioProject
+https://github.com/AlexandreGrego1/PersonalPortfolioProject.git
 
+## Testing write-up
+
+Responsivity for mobile devices tested on :
+
+* Google Chrome Developer Tools
+
+* Microsoft Edge
+
+* Opera Browser
+
+* Mozilla Firefox on Galaxy S9 setting
 
 
 **September 22 2020:** 
