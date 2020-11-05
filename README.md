@@ -4,17 +4,18 @@
 
 Welcome to my portfolio,
 
-This portfolio intents to offer to potencial employers an idea about my work history, and my skills in web develop tools. 
+This portfolio aim is to offer to potencial recruiters an on-line CV that brings an apresention about my knolodge as Web Develeper, and my background experiences. 
+
 
 ## UX design / Presentation
 
 ### Wireframing
 
-I have applyed differents concepts from different ideas of projects that I have done during my short developer path, and the pages were developed as per below: 
+I have applyed differents concepts from different ideas of projects that I have done during my short developer path studies, and the pages were developed as per below: 
 
-* Home
+* Home 
 
-The home page, consists in a profile picture, description text "Who I am", an navbar button and a footer containing my social midia, and contact details. 
+The home page, consists in a profile picture, description text "Who I am", an hamburguer button with an animation applied that hides the navigation buttons, and a footer containing my contact details, and a link with a printable version of my CV.
 
 * Resume
 
