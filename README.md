@@ -15,11 +15,20 @@ I have applyed differents concepts from different ideas of projects that I have 
 
 * Home 
 
-The home page, consists in a profile picture, description text "Who I am", an hamburguer button with an animation applied that hides the navigation buttons, and a footer containing my contact details, and a link with a printable version of my CV.
+Consists in a profile picture, description text "Who I am", an hamburguer button with an animation applied that hides the navigation buttons, and a footer containing my contact details, and a link with a printable version of my CV.
+
+* The method used for the home page is: 
+- Header: containing a section, hamburger, and nav button;
+- Section: div class row, splited in 1/3 and 2/3. 
+
+
 
 * Resume
 
-The resume page, consists in my real work history on the left, and a skills resume which is based on my currently, and future skills that I expect to achieve after finish my Full Stack Web Developer course at Code Institute.
+The resume page, consists in my work history on the left, and a skills resume which is based on my currently, and future skills that I expect to achieve after finish my Full Stack Web Developer course at Code Institute.
+
+This page is a part of a cross reference from home page, thus profile picture, footer details, hamburguer button are from home page.
+
 
 * Contact
 
