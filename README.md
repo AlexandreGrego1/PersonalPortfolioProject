@@ -8,7 +8,7 @@ This portfolio aim is to offer to recruiters an on-line apresentation of myself 
 
 ### Wireframing
 
-I have applyed differents concepts from different ideas of projects that I have done during my short developer studies path, and the pages were developed as per below: 
+This portfolio project was developed as per description pages below:
 
 #### HOME 
 
