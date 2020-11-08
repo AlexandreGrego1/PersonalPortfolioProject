@@ -61,17 +61,17 @@ Form
 - Inputs for name, e-mail, and project description. All inputs are required and placeholder fields applied. 
 - Button to submit the input text entered with a boostrap anination button applied.
 
-## Mobile Wireframes
+## MOBILE WIREFRAMES
 
 The layout placement and how they interact with one another goes through many stages, from conception to mockups to finalized UI is based on responsive view.
 
-## Typography
+## TYPOGRAPHY
 
 I have operated with mostly darker in the background and lighter colors in the font-family. The most dominant colors are black for background, white, cyan and for font-family.
 
 Google Fonts CDN was used to have Sans-Serif and Exo as a font family for the body text.
 
-## Technologies Used
+## APPLYIED TECHNOLOGIES
 
 * HTML
 * CSS3
@@ -83,14 +83,14 @@ Google Fonts CDN was used to have Sans-Serif and Exo as a font family for the bo
 * Fontawsome 
 
 
-## Version Control
+## VERSION CONTROL
 
 I was using Git for version control, uploading the project to GitHub.
 
 My GitHub repository for this project:
 https://github.com/AlexandreGrego1/PersonalPortfolioProject.git
 
-## Testing write-up
+## TESTING WRITE-UP
 
 Responsivity for mobile devices tested on :
 
@@ -102,7 +102,7 @@ Responsivity for mobile devices tested on :
 
 * Mozilla Firefox
 
-## Barriers to Technology Development
+## BARRIES TO TECHNOLOGY DEVELOPMENT
 
 As my limited knowledge of development tools, I have developed my portfolio in the same stands as my resume project lecture. Althought my limited knologment, I have applyied my own caracteristics to my project trying to give my particular caracteristics to this portfolio. 
 
