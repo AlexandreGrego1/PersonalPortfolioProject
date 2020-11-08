@@ -57,6 +57,14 @@ The contact page consists in a form for the potencial employer be in touch to se
 
 The method applied to develope this page was as per below:
 
+Header
+- Introduction section wrapped with a profile image and greetings. An zoom anitation with a scale from 0.9 to 1.0 was applied.
+- Hamburger and nav button with transform translatex (0) applied bringing an animation to hide the navigation buttons from main menu on the home page;<br>
+
+Form
+- Inputs for name, e-mail, and project description. All inputs are required and placeholder fields applied. 
+- Button to submit the input text entered with a boostrap anination button applied.
+
 
 
 * Download CV
