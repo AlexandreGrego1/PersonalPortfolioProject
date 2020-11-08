@@ -64,21 +64,6 @@ Form
 - Button to submit the input text entered with a boostrap anination button applied.
 
 
-
-## Download CV 
-
-The dowcload Cv page, ofter to a potencial recruiter an option to download a printable version of my CV in a tradional form. After click on the button download CV, a target_blank comand will open a new tab mantening the potencial employer on the main portfolio page. 
-
-
-## Hambuguer button
-
-The hamburger button have a basic animation applied. The intention of the animation is to atract attention offering a different way to acess the navigation buttons.
-
-## Footer
-
-The footer section have social media information, as well an option to have a printble version of CV.
-
-
 ## Mobile Wireframes
 
 All portfolio is based on resposible wireframes.
