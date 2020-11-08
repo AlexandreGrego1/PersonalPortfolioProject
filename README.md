@@ -13,28 +13,40 @@ This portfolio aim is to offer to potencial recruiters an on-line CV that brings
 
 I have applyed differents concepts from different ideas of projects that I have done during my short developer studies path, and the pages were developed as per below: 
 
-##### HOME 
+### HOME 
 
 The home page consists in a profile picture, description text "Who I am", an hamburguer button with an animation applied that hides the navigation buttons, and a footer containing my contact details, and a link with a printable version of my CV.
 
 The method used to develope this page was as per below:
-###### HEADER
-- Section with a profile image and a intruduction. 
-- Button with hamburger and nav button. Transform translatex (0) applied to bring an animation and hide the navigation buttons from main menu on the home page
+#####HEADER
+- Introduction section wrapped with a profile image and greetings;
+- Hamburger and nav button with transform translatex (0) applied bringing an animation to hide the navigation buttons from main menu on the home page;
+#####RESUME
+- Container-fluid class developed to split its screen between personal details and About Me. For personal details, the screen is developed to take 1/3 of the screen, and the About Me is developed to take 2/3 of the screen when it is displayed on desktop view. Both screen is developed to open on responsive view floating to left and aligning to the center page displaying the context underneath to the subsequence context;
+#####ABOUT ME
+- Section wrapped with a picture and a text covering an apresentation about Who I am, and my expectations;
+#####FOOTER
+- Printable version of CV available. Once the user click on this button download, 
 
-##### RESUME
+- Footer 
 
-The resume page consists in my work history on the left, and a skills resume which is based on my currently, and future skills that I expect to achieve after finish my Full Stack Web Developer course at Code Institute.
+
+
+sume page consists in my work history on the left, and a skills resume which is based on my currently, and future skills that I expect to achieve after finish my Full Stack Web Developer course at Code Institute.
 
 This page is a part of a cross reference from home page, thus profile picture, footer details, hamburguer button are from home page.
 
-The method used to develope this page was as per below:
+The method applied to develope this page was as per below:
 ###### RESUME SECTION
 The resume page was developed to split its screen in 1/3 for personal details and 2/3 for about me on desktop view. When this section is opned on responsive screen, the context float to left, and all the contect is align to the center page displaying underneath the subsequence context.
 
-* Contact
+ ### CONTACT
 
-The contact page, consists in a invitation for the future employer be in touch to work in a potencial project. 
+The contact page consists in a form for the potencial employer be in touch to send assements tests from enterivew process, or potencial projects to work togheter.
+
+The method applied to develope this page was as per below:
+
+
 
 * Download CV
 
