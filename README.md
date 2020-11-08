@@ -113,9 +113,9 @@ As my limited knowledge of development tools, I have developed my portfolio in t
 
 After developed my first project, I have noticed that I should not hurry up trying to finish the module as quick as possible. In my opinion after this project, I would save much more time with I had spent more time trying to understand some concepts before going to the next module. 
 
-##REFERENCES
+## REFERENCES
 
-Scrimba - https://scrimba.com - Idead for portfolio
-Google Fonts - https://fonts.google.com - CDN for fonts used in the project
-Font Awesome - https://fontawesome.com - CDN for fonts used in the project
-W3schools - https://www.w3schools.com - CDN for fonts used in the project
+Scrimba - https://scrimba.com - Idead for portfolio <br>
+Google Fonts - https://fonts.google.com - CDN for fonts used in the project <br>
+Font Awesome - https://fontawesome.com - CDN for fonts used in the project <br>
+W3schools - https://www.w3schools.com - CDN for fonts used in the project <br>
