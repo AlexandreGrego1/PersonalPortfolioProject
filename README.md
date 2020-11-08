@@ -16,26 +16,40 @@ I have applyed differents concepts from different ideas of projects that I have 
 
 The home page consists in a profile picture, description text "Who I am", an hamburguer button with an animation applied that hides the navigation buttons, and a footer containing my contact details, and a link with a printable version of my CV.
 
-The method used to develope this page was as per below: <br>
+The method applied to develope this page was as per below: <br>
 
 Header
-
 - Introduction section wrapped with a profile image and greetings. An zoom anitation with a scale from 0.9 to 1.0 was applied.
 - Hamburger and nav button with transform translatex (0) applied bringing an animation to hide the navigation buttons from main menu on the home page;<br>
 
 Resume 
-
 - Container-fluid class developed to split its screen between personal details and About Me. For personal details, the screen is developed to take 1/3 of the screen, and the About Me is developed to take 2/3 of the screen when it is displayed on desktop view. Both screen is developed to open on responsive view floating to left and aligning to the center page displaying the context underneath to the subsequence context;<br>
 
 About Me
-
 - Section wrapped with a picture and a text covering an apresentation about Who I am, and my expectations;<br>
 
 Footer 
-
 - Ancor link to access an printable version of CV available in pdf. Target blank applied to keep the recruiter on the main. Download font awesome anitation button applied, and  hovering with red color;
 - Ancor links applied to social lists of my professional history. Download font awesome anitation button applied, and  hovering in red color.
 
+
+
+### RESUME
+
+The resume page consists in my work history and my skills as developer student at Code Institute. My work history is from my backgroung experiences and my skills as front end and back end is based on my resume project lecture. 
+
+The method applied to develope this page was done as per below: <br>
+
+Header
+- Introduction section wrapped with a profile image and greetings. An zoom anitation with a scale from 0.9 to 1.0 was applied.
+- Hamburger and nav button with transform translatex (0) applied bringing an animation to hide the navigation buttons from main menu on the home page;<br>
+
+About Me
+- Container-fluid class developed to split its screen between work history and My Skills. For my work history, it was developed to take 1/3 of the screen, for my skills, it was developed to take 2/3 of the screen when it is displayed on desktop view. Both screen is developed to open on responsive view floating to left and aligning to the center page displaying the context underneath to the subsequence context;<br>
+
+Footer 
+- Ancor link to access an printable version of CV available in pdf. Target blank applied to keep the recruiter on the main. Download font awesome anitation button applied, and  hovering with red color;
+- Ancor links applied to social lists of my professional history. Download font awesome anitation button applied, and  hovering in red color.
 
  ### CONTACT
 
