@@ -10,7 +10,7 @@ This portfolio aim is to offer to recruiters an on-line apresentation of myself 
 
 I have applyed differents concepts from different ideas of projects that I have done during my short developer studies path, and the pages were developed as per below: 
 
-### Home 
+#### HOME 
 
 The home page consists in a profile picture, description text "Who I am", an hamburguer button with an animation applied that hides the navigation buttons, and a footer containing my contact details, and a link with a printable version of my CV.
 
@@ -30,7 +30,7 @@ Footer
 - Ancor link to access an printable version of CV available in pdf. Target blank applied to keep the recruiter on the main. Download font awesome anitation button applied, and  hovering with red color;
 - Ancor links applied to social lists of my professional history. Download font awesome anitation button applied, and  hovering in red color.
 
-### Resume
+#### RESUME
 
 The resume page consists in my work history and my skills as developer student at Code Institute. My work history is from my backgroung experiences and my skills as front end and back end is based on my resume project lecture. 
 
@@ -47,7 +47,7 @@ Footer
 - Ancor link to access an printable version of CV available in pdf. Target blank applied to keep the recruiter on the main. Download font awesome anitation button applied, and  hovering with red color;
 - Ancor links applied to social lists of my professional history. Download font awesome anitation button applied, and  hovering in red color.
 
- ### Contact
+ #### CONTACT
 
 The contact page consists in a form for the potencial employer be in touch to send assements tests from enterivew process, or potencial projects to work togheter.
 
