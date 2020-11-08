@@ -66,7 +66,7 @@ Form
 
 ## Mobile Wireframes
 
-All portfolio is based on resposible wireframes.
+The layout placement and how they interact with one another goes through many stages, from conception to mockups to finalized UI is based on responsive view.
 
 
 ## Typography
@@ -105,7 +105,7 @@ Responsivity for mobile devices tested on :
 
 * Opera Browser
 
-* Mozilla Firefox on Galaxy S9 setting
+* Mozilla Firefox
 
 ## Barriers to Technology Development
 
