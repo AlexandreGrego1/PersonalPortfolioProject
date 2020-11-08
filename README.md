@@ -1,7 +1,6 @@
-# MILESTONE PROJECT - 1
-  Personal Portfolio Alexandre Gregorio,
-
-Welcome to my portfolio,
+# MILESTONE PROJECT - 1 
+  
+Personal Portfolio Alexandre Gregorio,
 
 This portfolio aim is to offer to recruiters an on-line apresentation of myself covering my work history, my gradutaion and my skills as Web Developer.
 
