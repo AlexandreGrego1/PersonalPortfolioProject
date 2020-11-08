@@ -16,7 +16,7 @@ I have applyed differents concepts from different ideas of projects that I have 
 
 The home page consists in a profile picture, description text "Who I am", an hamburguer button with an animation applied that hides the navigation buttons, and a footer containing my contact details, and a link with a printable version of my CV.
 
-The method used to develope this page was as per below:
+The method used to develope this page was as per below: <br>
 #####HEADER
 - Introduction section wrapped with a profile image and greetings;
 - Hamburger and nav button with transform translatex (0) applied bringing an animation to hide the navigation buttons from main menu on the home page;
