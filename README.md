@@ -13,16 +13,15 @@ This portfolio aim is to offer to potencial recruiters an on-line CV that brings
 
 I have applyed differents concepts from different ideas of projects that I have done during my short developer studies path, and the pages were developed as per below: 
 
-* Home 
+#### HOME 
 
 Consists in a profile picture, description text "Who I am", an hamburguer button with an animation applied that hides the navigation buttons, and a footer containing my contact details, and a link with a printable version of my CV.
 
 The method used to develope this page was as per below:
-HEADER
-- Sectopm
+##### HEADER
+- Section with a profile image and a intruduction. 
+- Button with hamburger and nav button. Transform translatex (0) applied to bring an animation and hide the navigation buttons from main menu on the home page
 
-- Header: a section, hamburger button with anitamaton aplied to access the nav button;
-- Section: div class row, splited in 1/3 and 2/3. 
 
 
 
