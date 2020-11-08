@@ -107,9 +107,15 @@ Responsivity for mobile devices tested on :
 
 * Mozilla Firefox on Galaxy S9 setting
 
+## Barriers to Technology Development
 
-**September 22 2020:** 
+As my limited knowledge of development tools, I have developed my portfolio in the same stands as my resume project lecture. Althought my limited knologment, I have applyied my own caracteristics to my project trying to give my particular caracteristics to this portfolio. 
 
---------
+After developed my first project, I have noticed that I should not hurry up trying to finish the module as quick as possible. In my opinion after this project, I would save much more time with I had spent more time trying to understand some concepts before going to the next module. 
 
-Happy coding!
+##REFERENCES
+
+Scrimba - https://scrimba.com - Idead for portfolio
+Google Fonts - https://fonts.google.com - CDN for fonts used in the project
+Font Awesome - https://fontawesome.com - CDN for fonts used in the project
+W3schools - https://www.w3schools.com - CDN for fonts used in the project
