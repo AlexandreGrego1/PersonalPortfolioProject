@@ -1,5 +1,3 @@
-
-
 # PERSONAL PORTFOLIO ALEXANDRE GREGORIO,
 
 Welcome to my portfolio,
@@ -67,9 +65,9 @@ Form
 
 
 
-* Download CV
+## Download CV 
 
-The dowcload cv page, ofter to a potencial employer to download a printable version of my CV in a tradional form. After click on the button download CV, a target_blank comand will open a new tab mantening the potencial employer on the main portfolio page. 
+The dowcload Cv page, ofter to a potencial recruiter an option to download a printable version of my CV in a tradional form. After click on the button download CV, a target_blank comand will open a new tab mantening the potencial employer on the main portfolio page. 
 
 
 ## Hambuguer button
