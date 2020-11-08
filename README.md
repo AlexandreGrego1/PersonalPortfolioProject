@@ -115,7 +115,7 @@ After developed my first project, I have noticed that I should not hurry up tryi
 
 ## REFERENCES
 
-Scrimba - https://scrimba.com - Idead for portfolio <br>
+Scrimba - https://scrimba.com - Idea for portfolio <br>
 Google Fonts - https://fonts.google.com - CDN for fonts used in the project <br>
 Font Awesome - https://fontawesome.com - CDN for fonts used in the project <br>
 W3schools - https://www.w3schools.com - CDN for fonts used in the project <br>
