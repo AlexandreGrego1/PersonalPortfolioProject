@@ -1,5 +1,5 @@
 # MILESTONE PROJECT - 1
-# Personal Portfolio Alexandre Gregorio,
+  Personal Portfolio Alexandre Gregorio,
 
 Welcome to my portfolio,
 
