@@ -4,8 +4,7 @@
 
 Welcome to my portfolio,
 
-This portfolio aim is to offer to potencial recruiters an on-line CV that brings an apresention about my knolodge as Web Develeper, and my background experiences. 
-
+This portfolio aim is to offer to recruiters an on-line apresentation of myself covering my work histority, my gradutaion and my skills as Web Developer.
 
 ## UX design / Presentation
 
